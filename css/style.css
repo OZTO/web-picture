@@ -1,0 +1,18 @@
+body {
+	background: #000;
+}
+ul {
+	list-style: none;
+}
+li {
+	overflow: hidden;
+	float: left;
+}
+.large {
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	position: absolute;
+	background: #000;
+}
